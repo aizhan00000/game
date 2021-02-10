@@ -1,0 +1,11 @@
+.header{
+    background: #eee;
+    padding: 25px 10px 25px 10px;
+    margin: 15px;
+}
+.child1{
+    background: red;
+}
+.child2{
+    background: green;
+}
